@@ -5,8 +5,8 @@ Noun ;
 
 LEXICON Noun
 
-kok N1dekl;
-ceļ N1dekl;
+kok N1dekl_s;
+ceļ N1dekl_š;
 skolniek N1dekl;
 
 led N3dekl;
@@ -17,8 +17,13 @@ egl N5dekl;
 sēn N5dekl;
 pel N5dekl;
 
-LEXICON N1dekl
+LEXICON N1dekl_š
++N+Sg+Nom:^š  #;
+
+LEXICON N1dekl_s
 +N+Sg+Nom:^s  #;
+
+LEXICON N1dekl
 +N+Sg+Gen:^a  #;
 +N+Sg+Dat:^am #;
 +N+Sg+Acc:^u #;
