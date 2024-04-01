@@ -6,16 +6,16 @@ Noun ;
 LEXICON Noun
 
 kok N1dek;
-līdzenum N1dek;
-skolniek N1dek;
+līdzenum N1dekl;
+skolniek N1dekl;
 
-led N3delk;
-tirg N3delk;
-liet N3delk;
+led N3dekl;
+tirg N3dekl;
+liet N3dekl;
 
-egl N5delk;
-sēn N5delk;
-pel N5delk;
+egl N5dekl;
+sēn N5dekl;
+pel N5dekl;
 
 LEXICON N1dekl
 +N+Sg+Nom:^s  #;
