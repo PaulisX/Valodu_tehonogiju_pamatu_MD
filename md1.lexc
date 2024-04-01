@@ -19,11 +19,18 @@ pel N5dekl;
 
 LEXICON N1dekl_š
 +N+Sg+Nom:^š  #;
++N+Sg+Gen:^a  #;
++N+Sg+Dat:^am #;
++N+Sg+Acc:^u #;
++N+Sg+Loc:^ā #;
++N+Pl+Nom:^i  #;
++N+Pl+Gen:^u  #;
++N+Pl+Dat:^iem #;
++N+Pl+Acc:^us #;
++N+Pl+Loc:^os #;
 
 LEXICON N1dekl_s
 +N+Sg+Nom:^s  #;
-
-LEXICON N1dekl
 +N+Sg+Gen:^a  #;
 +N+Sg+Dat:^am #;
 +N+Sg+Acc:^u #;
